@@ -2,7 +2,7 @@ body {
     font-family: sans-serif;
     background-color: lightgrey;
     margin-top: 75px;
-    color:blue;
+    
 }
 
 .center {
@@ -21,3 +21,7 @@ body {
     height: 200px;
 }
 
+.div{
+    color:blue;
+    
+}
