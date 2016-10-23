@@ -19,7 +19,7 @@ app.get('/article-one',function(req,res){
 app.get('/article-two',function(req,res){
     res.send('Youre requesting article two please wait');
     });
-app.get('/article-one',function(req,res){
+app.get('/article-three',function(req,res){
     res.send('Youre requesting article three please wait');
     });
 
